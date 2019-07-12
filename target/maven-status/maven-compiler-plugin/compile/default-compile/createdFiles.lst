@@ -1,0 +1,8 @@
+com\xcy\ssm\utils\JsonUtils.class
+com\xcy\ssm\service\AreaService.class
+com\xcy\ssm\utils\JedisClientPool.class
+com\xcy\ssm\mapper\AreaMapper.class
+com\xcy\ssm\controller\AreaController.class
+com\xcy\ssm\service\impl\AreaServiceImpl.class
+com\xcy\ssm\pojo\Area.class
+com\xcy\ssm\utils\JedisClient.class
